@@ -1,0 +1,1 @@
+# App om punten bij te houden voor het weggooien van afval. Inclusief leaderboard om de gebruiker te stimuleren.
